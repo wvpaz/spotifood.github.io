@@ -4,23 +4,12 @@ import { fetchFeaturedPlaylists, fetchAuthorization } from '../actions';
 import Loading from '../components/Loading';
 import FeaturedPlaylistCard from './FeaturedPlaylistItem';
 import * as PlaylistsConstants from '../utils/constants/components/featuredPlaylistsConstants';
-import store from '../store';
 
 class FeaturedPlaylists extends Component {
     state = { 
         playlists: [],
         term: '' 
     };
-
-    // componentDidMount() {
-    //     console.log("DID: ");
-    //     console.log(store.getState());
-    // }
-
-    // componentWillReceiveProps(){
-    //     console.log("WILL RECEIVE: ");
-    //     console.log(store.getState());
-    // }
 
     filterPlaylists = () => {
         let playlists = [...this.props.playlists.items];

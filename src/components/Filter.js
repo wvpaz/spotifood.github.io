@@ -109,10 +109,6 @@ class Filter extends Component {
         }
 
         let fields = this.buildFieldsObject();
-        
-        this.props.filter.map(item => {
-            fields[item.id] = { ...item };
-        });
 
         return (
             <div className="ui segment app--full-background-color">
