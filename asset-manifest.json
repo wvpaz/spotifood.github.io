@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spotifood.github.io/static/css/main.dc98600b.chunk.css",
-    "main.js": "/spotifood.github.io/static/js/main.351d64a2.chunk.js",
-    "main.js.map": "/spotifood.github.io/static/js/main.351d64a2.chunk.js.map",
+    "main.js": "/spotifood.github.io/static/js/main.13fba853.chunk.js",
+    "main.js.map": "/spotifood.github.io/static/js/main.13fba853.chunk.js.map",
     "runtime-main.js": "/spotifood.github.io/static/js/runtime-main.ff26e1b1.js",
     "runtime-main.js.map": "/spotifood.github.io/static/js/runtime-main.ff26e1b1.js.map",
     "static/js/2.6dd6d2bd.chunk.js": "/spotifood.github.io/static/js/2.6dd6d2bd.chunk.js",
     "static/js/2.6dd6d2bd.chunk.js.map": "/spotifood.github.io/static/js/2.6dd6d2bd.chunk.js.map",
     "index.html": "/spotifood.github.io/index.html",
-    "precache-manifest.afda4f282901bfdbb4c0fbe23eef66dc.js": "/spotifood.github.io/precache-manifest.afda4f282901bfdbb4c0fbe23eef66dc.js",
+    "precache-manifest.ef7f4db0168852119aa7555caf0bf5c7.js": "/spotifood.github.io/precache-manifest.ef7f4db0168852119aa7555caf0bf5c7.js",
     "service-worker.js": "/spotifood.github.io/service-worker.js",
     "static/css/main.dc98600b.chunk.css.map": "/spotifood.github.io/static/css/main.dc98600b.chunk.css.map",
     "static/js/2.6dd6d2bd.chunk.js.LICENSE.txt": "/spotifood.github.io/static/js/2.6dd6d2bd.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ff26e1b1.js",
     "static/js/2.6dd6d2bd.chunk.js",
     "static/css/main.dc98600b.chunk.css",
-    "static/js/main.351d64a2.chunk.js"
+    "static/js/main.13fba853.chunk.js"
   ]
 }
