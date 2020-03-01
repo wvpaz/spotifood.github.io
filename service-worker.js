@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spotifood.github.io/precache-manifest.383e9b076138ed30245c72a69ff7d93b.js"
+  "/spotifood.github.io/precache-manifest.0307907da4e30fe499e3d989e4b9c8f5.js"
 );
 
 self.addEventListener('message', (event) => {
