@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/spotifood.github.io/static/css/main.dc98600b.chunk.css",
-    "main.js": "/spotifood.github.io/static/js/main.7203740e.chunk.js",
-    "main.js.map": "/spotifood.github.io/static/js/main.7203740e.chunk.js.map",
+    "main.js": "/spotifood.github.io/static/js/main.82c93ac2.chunk.js",
+    "main.js.map": "/spotifood.github.io/static/js/main.82c93ac2.chunk.js.map",
     "runtime-main.js": "/spotifood.github.io/static/js/runtime-main.ff26e1b1.js",
     "runtime-main.js.map": "/spotifood.github.io/static/js/runtime-main.ff26e1b1.js.map",
-    "static/js/2.e5c73df2.chunk.js": "/spotifood.github.io/static/js/2.e5c73df2.chunk.js",
-    "static/js/2.e5c73df2.chunk.js.map": "/spotifood.github.io/static/js/2.e5c73df2.chunk.js.map",
+    "static/js/2.6dd6d2bd.chunk.js": "/spotifood.github.io/static/js/2.6dd6d2bd.chunk.js",
+    "static/js/2.6dd6d2bd.chunk.js.map": "/spotifood.github.io/static/js/2.6dd6d2bd.chunk.js.map",
     "index.html": "/spotifood.github.io/index.html",
-    "precache-manifest.19e717f90e1149f5f000bee015e7b074.js": "/spotifood.github.io/precache-manifest.19e717f90e1149f5f000bee015e7b074.js",
+    "precache-manifest.c24effd0f4f16fdfa40e72718f52dbe4.js": "/spotifood.github.io/precache-manifest.c24effd0f4f16fdfa40e72718f52dbe4.js",
     "service-worker.js": "/spotifood.github.io/service-worker.js",
     "static/css/main.dc98600b.chunk.css.map": "/spotifood.github.io/static/css/main.dc98600b.chunk.css.map",
-    "static/js/2.e5c73df2.chunk.js.LICENSE.txt": "/spotifood.github.io/static/js/2.e5c73df2.chunk.js.LICENSE.txt",
+    "static/js/2.6dd6d2bd.chunk.js.LICENSE.txt": "/spotifood.github.io/static/js/2.6dd6d2bd.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/spotifood.github.io/static/media/logo.c4b73443.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ff26e1b1.js",
-    "static/js/2.e5c73df2.chunk.js",
+    "static/js/2.6dd6d2bd.chunk.js",
     "static/css/main.dc98600b.chunk.css",
-    "static/js/main.7203740e.chunk.js"
+    "static/js/main.82c93ac2.chunk.js"
   ]
 }

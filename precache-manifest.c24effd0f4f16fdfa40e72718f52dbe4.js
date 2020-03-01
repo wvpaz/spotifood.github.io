@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bef33b83f21092681115f02723682ec",
+    "revision": "93d20f5bf3bce70971721dca8d9df7d4",
     "url": "/spotifood.github.io/index.html"
   },
   {
-    "revision": "4991861d85c2a401d99a",
+    "revision": "580576cbfc538c995cad",
     "url": "/spotifood.github.io/static/css/main.dc98600b.chunk.css"
   },
   {
-    "revision": "b7e3c7dc3cbf2be3bb95",
-    "url": "/spotifood.github.io/static/js/2.e5c73df2.chunk.js"
+    "revision": "5a3315015f338736f9f8",
+    "url": "/spotifood.github.io/static/js/2.6dd6d2bd.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/spotifood.github.io/static/js/2.e5c73df2.chunk.js.LICENSE.txt"
+    "url": "/spotifood.github.io/static/js/2.6dd6d2bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4991861d85c2a401d99a",
-    "url": "/spotifood.github.io/static/js/main.7203740e.chunk.js"
+    "revision": "580576cbfc538c995cad",
+    "url": "/spotifood.github.io/static/js/main.82c93ac2.chunk.js"
   },
   {
     "revision": "3498b5052ccc05ce9b1f",
