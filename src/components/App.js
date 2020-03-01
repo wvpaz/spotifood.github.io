@@ -10,9 +10,9 @@ export default class App extends Component {
       <div className="app--full-height">
         <Router basename={process.env.PUBLIC_URL}>
           <Switch>
-            <Route exact path="/home" component={Home} />
-            <Route exact path="/callback" component={Callback} />
-            <Route exact path="/auth" component={Auth} />
+            <Route path="/home" component={Home} />
+            <Route path="/callback" component={Callback} />
+            <Route path="/auth" component={Auth} />
             <Redirect exact from="/" to="auth" />
           </Switch>
         </Router>
