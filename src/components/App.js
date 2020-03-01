@@ -8,7 +8,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="app--full-height">
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <Switch>
             <Route path="/home" component={Home} />
             <Route path="/callback" component={Callback} />
