@@ -1,0 +1,11 @@
+.small-height {
+    min-height: 200px;
+}
+
+.medium-height {
+    min-height: 350px;
+}
+
+.full-height {
+    min-height: 100%;
+}

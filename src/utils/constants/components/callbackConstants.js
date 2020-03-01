@@ -1,0 +1,1 @@
+export const CALLBACK_LOADING_TEXT = 'Identifying User ...';
