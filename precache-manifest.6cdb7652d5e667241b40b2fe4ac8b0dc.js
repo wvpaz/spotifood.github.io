@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93d20f5bf3bce70971721dca8d9df7d4",
+    "revision": "33ef715f2dbc18daf2af628f95a99402",
     "url": "/spotifood.github.io/index.html"
   },
   {
-    "revision": "580576cbfc538c995cad",
+    "revision": "e71e908f73ac648669cc",
     "url": "/spotifood.github.io/static/css/main.dc98600b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotifood.github.io/static/js/2.6dd6d2bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "580576cbfc538c995cad",
-    "url": "/spotifood.github.io/static/js/main.82c93ac2.chunk.js"
+    "revision": "e71e908f73ac648669cc",
+    "url": "/spotifood.github.io/static/js/main.75f8c21d.chunk.js"
   },
   {
     "revision": "3498b5052ccc05ce9b1f",
